@@ -18,6 +18,7 @@ AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to 
 *These customers are of two types*
 - Physical Stores
 - E-commerce platforms
+
 *They sell their products through three mediums/channels,*
 - Retailers
 - Direct
@@ -57,9 +58,6 @@ Extracted CSV file from the database [Data](https://github.com/Phebeeva24/Power-
 - Review and delete the Database relationship created by Power BI by default. Also, creating the required dimension table in Power Query.Data validation using some tables in Power BI and matching the values with the data provided.
 - Data Transformation. For example, creating a Last Sales Month Reference table. So, the last sales month reference table will be dynamic and will change after every sale. Created calculated columns in Power Query like a fiscal year and merged the tables.
 - Data modeling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
-
-  ![power bi codebasic 1](https://github.com/Phebeeva24/Power-BI-Business-Insights-360-AtliQ-Hardware/assets/147321375/811d6660-6104-4a9a-8022-3086b97e027c)
-
 - Created calculated columns using more than 40 DAX formulas (Formulas listed at the bottom). After the columns are created, verify them in either MySQL.
 ### Dashboard Overview:
 ---
