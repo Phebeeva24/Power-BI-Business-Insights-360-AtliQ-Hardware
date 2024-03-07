@@ -56,7 +56,7 @@ Extracted CSV file from the database
 - Data Transformation. For example, creating a Last Sales Month Reference table. So, the last sales month reference table will be dynamic and will change after every sale. Created calculated columns in Power Query like a fiscal year and merged the tables.
 - Data modeling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
 
-  ![Alt text]("C:\Users\HP\Pictures\5LINK.png")
+  ![power bi codebasic 1](https://github.com/Phebeeva24/Power-BI-Business-Insights-360-AtliQ-Hardware/assets/147321375/811d6660-6104-4a9a-8022-3086b97e027c)
   
 
  
