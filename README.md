@@ -7,8 +7,10 @@ AtliQ Hardware has been growing rapidly in recent years, and they have decided t
 
 I worked on this project by following the Codebasics PowerBi Course, The Link to the 
 course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-**❇️ SQL** 
-**❇️ Novypro Power BI Dashboard**-[link](
+
+**❇️ SQL**
+
+**❇️ Novypro Power BI Dashboard**-[link](https://www.novypro.com/project/business-analytics-dashboard)
 
 ---
 ### Company's Background
