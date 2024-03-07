@@ -57,6 +57,16 @@ Extracted CSV file from the database
 - Data modeling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
 
   ![power bi codebasic 1](https://github.com/Phebeeva24/Power-BI-Business-Insights-360-AtliQ-Hardware/assets/147321375/811d6660-6104-4a9a-8022-3086b97e027c)
+
+- Created calculated columns using more than 40 DAX formulas (Formulas listed at the bottom). After the columns are created, verify them in either MySQL.
+### Dashboard Overview:
+---
+✔ Home:
+The first page of the report is a home page with the navigation to all other views and a summary of each page so a user can directly access the report they need to look at.
+I have created 5 different report views in this report which serve the needs of various stakeholders, and specifically targeted to various departments to give an overview of the company's performance.
+
+
+
   
 
  
