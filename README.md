@@ -8,7 +8,7 @@ AtliQ Hardware has been growing rapidly in recent years, and they have decided t
 I worked on this project by following the Codebasics PowerBi Course, The Link to the 
 course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-**❇️ SQL**
+**❇️ SQL**[SQL-BUSINESS-INSIGHT](https://github.com/Phebeeva24/SQL-Business-Insights-AtliQ-Hardware)
 
 **❇️ Novypro Power BI Dashboard**-[link](https://www.novypro.com/project/business-analytics-dashboard)
 
@@ -30,7 +30,7 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 ### Data Source
 we used two databases. In that database, each contains some tables which are explored below.
 
-Extracted CSV file from the database
+Extracted CSV file from the database [Data](https://github.com/Phebeeva24/Power-BI-Business-Insights-360-AtliQ-Hardware/tree/main/DATASET)
 ### * gdb041
 - dim_customer
 - dim_product
@@ -123,7 +123,7 @@ I have created 5 different report views in this report which serve the needs of 
 - MS Excel
 - MySQL
 - Power BI Dashboard
-- DAX Formula
+- DAX Formula: [Link](https://github.com/Phebeeva24/Power-BI-Business-Insights-360-AtliQ-Hardware/blob/main/DAX%20FORMULA%20ATLIQ%20COMPANY.pdf)
 
 ### PowerBI techniques Learnt:
 ---
